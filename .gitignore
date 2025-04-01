@@ -12,3 +12,4 @@ csv2xlsx
 
 /.idea
 /dist
+.DS_Store
